@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm [Hossam Nabil] 
+# Hi, I'm Hossam Nabil
 
 I'm a Computer Engineer with a passion for learning and leveraging AI in software development. My interests span across multiple programming languages including C/C++, Python, and Java.
 
